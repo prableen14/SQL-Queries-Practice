@@ -18,3 +18,8 @@ from company c
     inner join employee e on e.company_code = c.company_code
 group by c.company_code,c.founder
 order by c.company_code;
+
+
+/* The logic is that each employee have lead manager code,senior manager code and manager code that link to each employee code. 
+So that counting each with distinct will give us number of managers. What confusing us is that each table only have code (could have other properties - such as name).
+*/
