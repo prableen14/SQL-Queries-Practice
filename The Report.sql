@@ -18,6 +18,11 @@ Grades contains the following data:
 | 3      |     20   |     29     |
 | 4      |     30   |     39     |
 | 5      |     40   |     49     |
+| 6      |     50   |     59     |
+| 7      |     60   |     69     |
+| 8      |     70   |     79     |
+| 9      |     80   |     89     |
+| 10     |     90   |     100    |
 +-------------+----------+-------+
 
 Ketty gives Eve a task to generate a report containing three columns: Name, Grade and Mark. 
